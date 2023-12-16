@@ -1,0 +1,5 @@
+venv/
+build/
+dist/
+Forest_Fire_Prediction.egg-info/
+src/
